@@ -1,0 +1,70 @@
+[{
+        "nev": "Somlói galuska",
+        "elkeszitesi_ido": 30,
+        "eleresi_ut": "kepek/somloi.jpg",
+        "leiras": "Így kell elkészíteni a somlóit",
+        "hozzavalok": [{
+                "tojás": 6
+            }, {
+                "liszt": 0.5
+            }, {
+                "csokoládé": 1
+            }]
+    },
+    {
+        "nev": "Zsíros kenyér",
+        "elkeszitesi_ido": 3,
+        "eleresi_ut": "kepek/zsiroskenyer.jpg",
+        "leiras": "Így kell elkészíteni a zsíros kenyeret",
+        "hozzavalok": [{
+                "kenyér": 0.25
+            }, {
+                "libazsír": 0.5
+            }, {
+                "hagyma": 0.5
+            }]
+    },
+     {
+        "nev": "Zabkása",
+        "elkeszitesi_ido": 10,
+        "eleresi_ut": "kepek/zabkasa.jpg",
+        "leiras": "Így kell elkészíteni a zabkását",
+        "hozzavalok": [{
+                "zab": 2
+            }, {
+                "tej": 1
+            }, {
+                "vaníliás cukor": 0.25
+            },
+        {
+                "eper": 3
+            },
+            {
+                "áfonya": 9
+            }
+        ]
+    },
+     {
+        "nev": "Tejberizs",
+        "elkeszitesi_ido": 15,
+        "eleresi_ut": "kepek/tejberizs.jpg",
+        "leiras": "Így kell elkészíteni a tekberizst",
+        "hozzavalok": [{
+                "rizs": 3
+            }, {
+                "tej": 0.5
+            }, {
+                "vaníliás cukor": 1
+            },
+        {
+                "fahéj": 1
+            },
+            {
+                "xilit": 2
+            }
+        ]
+    }
+
+]
+
+

@@ -1,0 +1,97 @@
+@charset "utf-8";
+
+body{
+    background: blanchedalmond;
+    font-family: "Calibri",courier;
+}
+*{
+    box-sizing: border-box;
+}
+
+main, header, footer, article, header, section{
+    border:1px solid gray;
+    padding:10px;
+    background: pink;
+    
+}
+
+main {
+
+    max-width: 800px;
+    margin: auto;
+    background: blanchedalmond;
+    border-radius: 5px;
+}
+
+footer, header{
+    text-align: center;
+    background: lemonchiffon;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    box-shadow: 1px 1px 5px lightcoral;
+
+
+}
+
+table, td, th {
+    border: 1px solid lightpink;
+
+}
+
+ul{
+   
+   
+   margin: 0;
+}
+
+th {
+    background: seashell;
+    border-bottom: 1.5px solid gray;
+}
+
+
+tr:nth-child(even){
+    background: bisque;
+}
+
+tr:nth-child(odd){
+    background: blanchedalmond; 
+} 
+
+
+.etelcim_formaz{
+    background: seashell;
+    padding-left: 5px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 5px lightcoral;
+}
+
+section img{
+    width: 100%;
+    height: 270px;
+    border-radius: 3px;
+
+}
+
+
+#fokeret{
+    display: grid;
+    grid-template-columns: 1fr 8fr 1fr;
+    width: 70%;
+    border: 2px solid pink;
+    border-radius: 3px;
+    box-shadow: 1px 1px 4px grey;
+}
+
+#balraleptet, #jobbraleptet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: mistyrose;
+    border-radius: 3px;
+
+}
+
