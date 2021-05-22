@@ -73,7 +73,7 @@ function megjelenitRecept(receptObjektum) { //a receptekTomb egy eleme a paramé
 
     $("section").append("<div id='fokeret'>\n\
         <div id='balraleptet'> << </div>\n\
-        <div id='kepkeret'><img src='" + receptObjektum['eleresi_ut'] + "'></div>\n\
+        <div id='kepkeret'><img src='" + receptObjektum['eleresi_ut'] + "' alt='" + receptObjektum['eleresi_ut'].slice(6,receptObjektum['eleresi_ut'].length-4) + "' ></div>\n\
         <div id='jobbraleptet'> >> </div>\n\
         </div>");
     $("section").append("<h2>" + receptObjektum["nev"] + "</h2>");
